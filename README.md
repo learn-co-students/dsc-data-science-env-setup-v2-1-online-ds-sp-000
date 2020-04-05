@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this lesson, you'll continue setting up your professional data science environment by making a virtual environment. 
+
 
 ## Objectives
 

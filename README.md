@@ -22,7 +22,7 @@ If you’re on a Windows machine, select “Git Bash” from either the start me
 If you’re working on a mac, open the “Terminal” app in the “Utilities” folder within your “Applications” folder.
 
 Let’s type `pwd` to “print the working directory. It should be somewhere you are OK downloading files to. If not, feel free to use the “cd” command to change directory to one you’d like to work from.
-
+g
 Then type (or better still, copy and paste) `git clone https://github.com/learn-co-curriculum/dsc-data-science-env-setup-v2-1.git`
 
 *In Windows, in git bash, to paste from the clipboard the shortcut should be `ctrl-shift-insert`*
